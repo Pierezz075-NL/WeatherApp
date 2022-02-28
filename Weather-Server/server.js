@@ -7,7 +7,7 @@ const app = express();
 
 
 // Set up our openweathermap API_KEY
-const apiKey = '5fda5eec33a09b282f345498e3fdd010';
+const apiKey = 'USE_YOUR_KEY';
 
 // Setup our express app and body-parser configurations
 app.use(cors());
